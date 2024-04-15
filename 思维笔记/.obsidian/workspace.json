@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "fc934010b32ab2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3856bea48724eaf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d151364233cac32f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "2489c31f4e7bfc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "成长/是什么和为什么/生存与繁衍-生命体最基本的本能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf9212519b2bcef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "009a251201871244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6017492ba2596b92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "b79d7584643d1d8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "456ebe8912476524",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3185bf000e04affb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "成长/是什么和为什么/生存与繁衍-生命体最基本的本能.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "155cce04d170a49c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e791c1ea68dbfabb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a620401884a1e3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6dfc283bc4e1d10a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "成长/是什么和为什么/生存与繁衍-生命体最基本的本能.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 1.21107266435986,
+                  "linkStrength": 0.503460207612457,
+                  "linkDistance": 30,
+                  "scale": 1.74883068792149,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cb5c5d26458ffc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "成长/是什么和为什么/生存与繁衍-生命体最基本的本能.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4083a708697b56ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "成长/是什么和为什么/生存与繁衍-生命体最基本的本能.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2489c31f4e7bfc74",
+  "lastOpenFiles": [
+    "成长/怎么做/习惯养成的方法.md",
+    "成长/是什么和为什么/为什么要记读书笔记.md",
+    "成长/怎么做/怎样读书.md",
+    "成长/是什么和为什么/思考的懒惰.md",
+    "成长/是什么和为什么/认知失调机制.md",
+    "成长/是什么和为什么/多巴胺动机强化机制.md",
+    "成长/是什么和为什么/内部动机与外部动机.md",
+    "成长/是什么和为什么/大脑的寻求快感倾向.md",
+    "成长/怎么做/怎样记笔记.md",
+    "成长/是什么和为什么/大脑的节能倾向.md",
+    "成长/是什么和为什么/情绪的本质.md",
+    "成长/是什么和为什么/三脑模型.md",
+    "成长/是什么和为什么/为什么要读书.md",
+    "成长/是什么和为什么/积极主动.md",
+    "成长/是什么和为什么/模糊：人生是一场消除模糊的比赛.md",
+    "成长/是什么和为什么/微习惯.md",
+    "成长/是什么和为什么/人是社会性动物.md",
+    "成长/是什么和为什么/游戏中的成就跟现实中的成就的区别思考.md",
+    "成长/是什么和为什么/马斯洛需要层次理论.md",
+    "成长/是什么和为什么/什么是幸福.md",
+    "成长/是什么和为什么/忘记目标，专注于体系.md",
+    "成长/怎么做/如何获得持久的幸福.md",
+    "成长/是什么和为什么/大脑为什么注重即时反馈.md",
+    "成长/是什么和为什么/落伍的大脑.md",
+    "成长/是什么和为什么/恐惧.md",
+    "成长/是什么和为什么/愤怒.md",
+    "成长",
+    "未命名.canvas",
+    "附件",
+    "读书笔记",
+    "成长/实践项目",
+    "成长/是什么和为什么",
+    "成长/怎么做"
+  ]
+}

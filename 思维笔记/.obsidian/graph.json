@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:怎么做  ",
+      "color": {
+        "a": 1,
+        "rgb": 3561663
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.0113321799308,
+  "lineSizeMultiplier": 1.67257785467128,
+  "collapse-forces": true,
+  "centerStrength": 0.459342560553633,
+  "repelStrength": 7.45674740484429,
+  "linkStrength": 0.753460207612457,
+  "linkDistance": 90,
+  "scale": 1.246758608631748,
+  "close": true
+}
